@@ -1,4 +1,4 @@
-[![Operations Research Journal Logo](https://ORJournal.github.io/OperationsResearchHeader.jpg)](https://pubsonline.informs.org/journal/opre)
+[![Operations Research Journal Logo](https://orjournal.github.io/OperationsReseachHeader.jpg)](https://pubsonline.informs.org/journal/opre)
 
 # CacheTest
 
